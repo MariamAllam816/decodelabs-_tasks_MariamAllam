@@ -1,4 +1,4 @@
-# decodelabs-_tasks_MariamAllam
+# decodelabs_tasks_MariamAllam
 # Artificial Intelligence Internship projects
 
 Welcome to my AI portfolio. I am a third-year Computer Science student and certified Data Analytics graduate, currently building production-ready architectures. 
